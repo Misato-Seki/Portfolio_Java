@@ -1,0 +1,4 @@
+Your task is to complete the program. Program should ask for two integers and then add them together and print the result. 
+Your task is to write the code which asks for the numbers and uses exception handling to check if the given numbers are integers. 
+If the user inputs something else than an integer, You did not type an integer! is printed on screen. 
+Program also includes the variable inputCorrect which value needs to be set to false if the given numbers are not integers.
