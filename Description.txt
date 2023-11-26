@@ -1,0 +1,9 @@
+Your task is to complete the program below by writing three methods (askInfo, copyInfo and setArray). 
+Program should ask for integers (max 100 integers) until the users types in zero. 
+Integers can vary from one to one hundred and they are stored in an array that has 100 elements. 
+Numbers are asked for with the askInfo method, which receives the array with numbers as parameter. 
+Method returns the number of integers. 
+The number zero is not saved in the array; it is merely used to stop giving input. 
+The given numbers are then copied to another array which size is the amount of given numbers. 
+Copying is done with copyInfo method which receives both arrays as parameters. 
+After this the elements of the new array are put in ascending order with setArray method and printed on screen with printArray method.
