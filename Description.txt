@@ -1,0 +1,3 @@
+Your task is to complete the program. Program should ask which element the user wants to print and then print the value of the given element. 
+Program must use exception handling to check that the user input is an integer. If it is not, program should print  You did not type in an integer! on screen. 
+Program must use exception handling also when printing the element value. If index number is incorrect, Invalid index is printed on screen.
