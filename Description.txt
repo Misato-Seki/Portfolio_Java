@@ -1,0 +1,6 @@
+Your task is to complete the program. Write a Client class that has two constructors and two methods: returnName and returnID. 
+Client class has three String type attributes: name, ID and address. In addition you should write the classes CashClient and AccountClient which derive from Client class. 
+CashClient class has one method: payCash which receives a sum as parameter and prints the text shown in the example print. 
+AccountClient has one attribute that keeps track of the balance on the client account. 
+In addition the AccountClient class has two methods: deposit which adds the given number to the account balance and withdraw which subtracts the given number from the account balance. 
+AccountClient class also requires toString method which prints the name, ID and account balance of a client.
